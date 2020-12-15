@@ -1,30 +1,40 @@
-# gatsby-starter-resume
+# Portifolio Criado com Template em Gatsby
 
-Gatsby.js V2 starter template based on Resume by startbootstrap
+<img width="941" alt="portifolio" src="https://user-images.githubusercontent.com/60220406/102154354-f34e3d80-3e57-11eb-834e-0d5198cdcf59.png">
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-resume/)
+Projeto Utilizado no Workshop Portfolio dev de palco com Gatsby e D3.js DoWhile 2020. 
 
-## Screenshot
+Template Baseado totalmente no Projeto do anubhavsrivastava
+deixo os devidos creditos ao mesmo e o link do Repositorio Original 
 
-![Screenshot](./src/assets/img/demo.png)
+[Repositorio Original do Template](https://github.com/anubhavsrivastava/gatsby-starter-resume).
 
-## Install
+Template Original [aqui](https://anubhavsrivastava.github.io/gatsby-starter-resume/)
 
-Make sure that you have the Gatsby CLI program installed:
+### Tecnologias Utilizadas 
+
+ [Documentação do Gatsby ](https://www.gatsbyjs.org/docs/building-with-components/).
+
+
+
+
+
+## Como Instalar 
+
+Certifique-se de ter o programa Gatsby CLI instalado:
 
 ```sh
 npm install --global gatsby-cli
 ```
 
-And run from your CLI:
+E execute a partir de sua CLI:
 
 ```sh
 gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-resume
 ```
 
-Then you can run it by:
+Então você pode executá-lo:
 
 ```sh
 cd gatsby-example-site
@@ -32,9 +42,9 @@ npm install
 gatsby develop
 ```
 
-### Personalization
+### Para Personalizar o Template 
 
-Edit `config.js` to put up your details
+Edite `config.js` para colocar seus detalhes
 
 ```javascript
 module.exports = {
@@ -54,18 +64,16 @@ module.exports = {
 };
 
 ```
-#### Changing Theme Colour
-
-To change theme colour, change `$primary` variable in `src/assets/sass/_variables.scss`.
 
 
-### Deploying using Github page
 
-`package.json` has a default script that uses `gh-pages` module to publish on Github pages. Simply running `npm run deploy` would publish the site on github pages.
+### Deploying usando a página do Github 
 
-Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefix/) value set for gatsby config in `config.js`. Change `pathPrefix` to relevant path if your gatsby site is hosted on subpath of a domain, `https://theanubhav.com/somePath/`. If you are hosting it as root site, i.e, `https://theanubhav.com/` , remove the pathPrefix configuration.
+`package.json` tem um script padrão que usa  `gh-pages` módulo para publicar nas páginas do Github. Basta executar para `npm run deploy` publicar o site nas páginas do github.
 
-### Checkout other similar starters
+Além disso, ele também possui um valor de [prefixo de caminho](https://www.gatsbyjs.org/docs/path-prefix/) definido para a configuração de gatsby em `config.js`. Mude `pathPrefix` para o caminho relevante se o seu site gatsby estiver hospedado em um subcaminho de um domínio, `https://theanubhav.com/somePath/`.Se você estiver hospedando-o como site raiz, ou seja `https://theanubhav.com/` , remova a configuração pathPrefix.
+
+### Lista de Comandos do Gatsby
 
 - [gatsby-starter-casual](https://github.com/anubhavsrivastava/gatsby-starter-casual)
 - [gatsby-starter-grayscale](https://github.com/anubhavsrivastava/gatsby-starter-grayscale) 
@@ -87,14 +95,4 @@ Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefi
 - [gatsby-starter-creative](https://github.com/anubhavsrivastava/gatsby-starter-creative)
 - [gatsby-starter-aerial](https://github.com/anubhavsrivastava/gatsby-starter-aerial)
 
-### Contribution
-
-Suggestions and PRs are welcome!
-
-Please create issue or open PR request for contribution.
-
-### License
-
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
-
-refer `LICENSE` file in this repository.
+## 🚀 Let's code! 🚀
