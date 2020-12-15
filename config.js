@@ -29,6 +29,6 @@ module.exports = {
     },
   ],
   email: 'hebertmontarroyos@hotmail.com',
-  //phone: '',
-  //address: '',
+  //phone: '(21)+++++++++++',
+  address: 'Rio de Janeiro, Brasil',
 };

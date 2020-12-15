@@ -10,12 +10,12 @@ export class Sidebar extends Component {
     super(props);
     this.state = {
       tabs: [
-        { content: 'About', href: 'about' },
-        { content: 'Experience', href: 'experience' },
-        { content: 'Education', href: 'education' },
-        { content: 'Skills', href: 'skills' },
-        { content: 'Interests', href: 'interests' },
-        { content: 'Awards', href: 'awards' },
+        { content: 'Sobre', href: 'about' },
+        { content: 'Experiências', href: 'experience' },
+        { content: 'Formação Acadêmica', href: 'education' },
+        { content: 'Habilidades', href: 'skills' },
+        { content: 'INTERESSES', href: 'interests' },
+        { content: 'PRÊMIOS & CERTIFICAÇÕES', href: 'awards' },
       ],
       isCollapsed: true,
     };
