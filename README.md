@@ -64,7 +64,9 @@ module.exports = {
 };
 
 ```
+## Deploy da Aplicação na Vercel
 
+[Deploy_da_Aplicação_Vercel](https://portfolio-seven-beige.vercel.app/)
 
 
 ### Deploying usando a página do Github 
