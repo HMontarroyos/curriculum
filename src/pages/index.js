@@ -279,7 +279,7 @@ const IndexPage = () => (
               <i className="fab fa-npm"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-mongo"></i>
+              <i className="fab fa-docker"></i>
             </li>
           </ul>
 
