@@ -87,7 +87,17 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Trainee em Tecnologia</h3>
               <div className="subheading mb-3">Volanty</div>
-              <p>Programa Tech Top (Programa de Desenvolvimento Full Stack)</p>
+              <ul>
+                <li>Programa de Desenvolvimento Full Stack.</li>
+                <li>
+                  Abordado diversos tipos de tecnologias em diferentes Stacks
+                  tendo a vivência pratica e teórica.
+                </li>
+                <li>
+                  Algumas das Stacks abordadas : Front-end, Back-end, Mobile,
+                  Análise de dados entre outras.
+                </li>
+              </ul>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">Fevereiro 2020 - Agosto 2020</span>
@@ -98,15 +108,13 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Suporte Técnico</h3>
               <div className="subheading mb-3">Mls Wireless</div>
-              <p>FUNÇÕES EXERCIDAS NO CARGO</p>
-              <p>
-                Suporte técnico telefônico, Abertura e retorno de chamados,
-                Configuração de redes em ambiente windows e linux, Configuração
-                de correio eletrônico, Monitoramento dos enlaces de acesso,
-                Verificação e realização de testes nos aparelhos ATA, Suporte
-                interno (troca de cartuchos de impressoras, configuração de
-                sistema operacional, manutenção no hardware) .
-              </p>
+              <ul>
+                <li>Configuração de redes em ambiente windows e linux.</li>
+                <li>
+                  Suporte técnico telefônico Abertura e retorno de chamados.
+                </li>
+                <li>Suporte técnico interno.</li>
+              </ul>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">
