@@ -264,6 +264,9 @@ const IndexPage = () => (
               <i className="fab fa-css3-alt"></i>
             </li>
             <li className="list-inline-item">
+              <i className="fab fa-sass"></i>
+            </li>
+            <li className="list-inline-item">
               <i className="fab fa-js-square"></i>
             </li>
             <li className="list-inline-item">
@@ -273,16 +276,10 @@ const IndexPage = () => (
               <i className="fab fa-node-js"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-sass"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-grunt"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-bootstrap"></i>
-            </li>
-            <li className="list-inline-item">
               <i className="fab fa-npm"></i>
+            </li>
+            <li className="list-inline-item">
+              <i className="fab fa-mongo"></i>
             </li>
           </ul>
 
