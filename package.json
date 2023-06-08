@@ -1,6 +1,9 @@
 {
   "name": "gatsby-starter-resume",
   "version": "0.0.1",
+  "engines": {
+    "node": "18.x"
+  },
   "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
   "repository": {
     "type": "git",
