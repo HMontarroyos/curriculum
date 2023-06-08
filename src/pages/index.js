@@ -62,25 +62,27 @@ const IndexPage = () => (
             <div className="resume-date text-md-right">
               <span className="text-primary">Agosto 2020 - Maio 2023</span>
             </div>
-            <ul>
-              <li>Desenvolvedor Front-end.</li>
-              <li>
-                Auxiliava com tarefas no Back-end para integrar as interfaces
-                com a lógica de negócio.
-              </li>
-              <li>
-                Utilizava de frameworks e bibliotecas populares, como React no
-                front e NodeJS no back -end.
-              </li>
-              <li>
-                Integração de APIs de terceiros para fornecer recursos
-                adicionais aos aplicativos.
-              </li>
-              <li>
-                Otimização de desempenho de sites e aplicativos para garantir
-                uma experiência do usuário ágil.
-              </li>
-            </ul>
+            <div>
+              <ul>
+                <li>Desenvolvedor Front-end.</li>
+                <li>
+                  Auxiliava com tarefas no Back-end para integrar as interfaces
+                  com a lógica de negócio.
+                </li>
+                <li>
+                  Utilizava de frameworks e bibliotecas populares, como React no
+                  front e NodeJS no back -end.
+                </li>
+                <li>
+                  Integração de APIs de terceiros para fornecer recursos
+                  adicionais aos aplicativos.
+                </li>
+                <li>
+                  Otimização de desempenho de sites e aplicativos para garantir
+                  uma experiência do usuário ágil.
+                </li>
+              </ul>
+            </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
