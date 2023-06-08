@@ -58,11 +58,6 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Analista de Desenvolvimento</h3>
               <div className="subheading mb-3">Calindra</div>
-            </div>
-            <div className="resume-date text-md-right">
-              <span className="text-primary">Agosto 2020 - Maio 2023</span>
-            </div>
-            <div>
               <ul>
                 <li>Desenvolvedor Front-end.</li>
                 <li>
@@ -82,6 +77,9 @@ const IndexPage = () => (
                   uma experiência do usuário ágil.
                 </li>
               </ul>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">Agosto 2020 - Maio 2023</span>
             </div>
           </div>
 
