@@ -1,9 +1,49 @@
-# Portifolio Criado com Template em Gatsby
+<a name="readme-top"></a>
+
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br>
+
+  <a href="#Curriculum">Curriculum</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como-Instalar-o-Projeto">Como Instalar o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Deploy-da-aplicação">Deploy da aplicação</a>
+
+
+<br>
+
+## <strong>Curriculum</strong>
+
+<br>
+
+#### <strong>Desktop</strong>
+
+<br>
 
 <img width="941" alt="portifolio" src="https://user-images.githubusercontent.com/60220406/102154354-f34e3d80-3e57-11eb-834e-0d5198cdcf59.png">
 
 
-Projeto Utilizado no Workshop Portfolio dev de palco com Gatsby e D3.js DoWhile 2020. 
+<br>
+
+#### <strong>Mobile</strong>
+
+<br>
+
+<img width="300" alt="mobile home" src="https://uploaddeimagens.com.br/images/004/522/277/full/portfolio.jpg?1687876035">
+
+<br>
+
+<img width="300" alt="mobile experiências" src="https://uploaddeimagens.com.br/images/004/522/279/original/portfolio2.jpg?1687876076">
+
+<br>
+
+Este projeto foi desenvolvido no Workshop Portfolio dev de palco com Gatsby e D3.js no DoWhile 2020.
 
 Template Baseado totalmente no Projeto do anubhavsrivastava
 deixo os devidos creditos ao mesmo e o link do Repositorio Original 
@@ -12,15 +52,36 @@ deixo os devidos creditos ao mesmo e o link do Repositorio Original
 
 Template Original [aqui](https://anubhavsrivastava.github.io/gatsby-starter-resume/)
 
-### Tecnologias Utilizadas 
 
- [Documentação do Gatsby ](https://www.gatsbyjs.org/docs/building-with-components/).
-
+<br/>
 
 
+<p align="right">(<a href="#readme-top">de volta ao topo</a>)</p>
 
 
-## Como Instalar 
+### <strong>Tecnologias Utilizadas</strong>
+
+<br>
+
+  [![Gatsby][Gatsby]][Gatsby-url]
+
+
+<br>
+
+### <strong>Utilitários</strong>
+
+<br>
+
+  [![Vercel][Vercel]][Vercel-url]
+
+
+
+<p align="right">(<a href="#readme-top">de volta ao topo</a>)</p>
+
+
+### <strong>Como Instalar o Projeto</strong>
+<br>
+
 
 Certifique-se de ter o programa Gatsby CLI instalado:
 
@@ -36,11 +97,34 @@ gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-resum
 
 Então você pode executá-lo:
 
+
+
+Após Clonar o Projeto, já em sua maquina utilize o seguinte comando para baixar suas dependências.
+
 ```sh
-cd gatsby-example-site
-npm install
-gatsby develop
+ npm install
 ```
+Ou em alguns caso será necessario executar o comando passando algumas flags 
+
+```sh
+ npm install --legacy-peer-deps
+```
+
+Após baixar todas as Dependências do Projeto dentro da pasta Raiz, inicie o Servidor com o Comando: 
+
+```sh
+ gatsby develop
+```
+<br>
+
+### <strong>Como usar</strong> 
+<br>
+
+Para Inicializar o Projeto 
+Abrir [http://localhost:8000](http://localhost:8000) vizualizar no Navegador. 
+O Gatsby roda por default na porta 8000
+
+<br>
 
 ### Para Personalizar o Template 
 
@@ -64,37 +148,38 @@ module.exports = {
 };
 
 ```
-## Deploy da Aplicação na Vercel
 
-[Deploy_da_Aplicação_Vercel](https://portfolio-seven-beige.vercel.app/)
+<br>
+
+### <strong>Deploy da aplicação</strong> 
+<br>
+
+[![Deploy][Deploy]][Deploy-url]
+
+<br>
 
 
-### Deploying usando a página do Github 
+### 🚀 Let's code! 🚀 ###
 
-`package.json` tem um script padrão que usa  `gh-pages` módulo para publicar nas páginas do Github. Basta executar para `npm run deploy` publicar o site nas páginas do github.
 
-Além disso, ele também possui um valor de [prefixo de caminho](https://www.gatsbyjs.org/docs/path-prefix/) definido para a configuração de gatsby em `config.js`. Mude `pathPrefix` para o caminho relevante se o seu site gatsby estiver hospedado em um subcaminho de um domínio, `https://theanubhav.com/somePath/`.Se você estiver hospedando-o como site raiz, ou seja `https://theanubhav.com/` , remova a configuração pathPrefix.
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/HMontarroyos/Curriculum.svg?style=for-the-badge
+[contributors-url]: https://github.com/HMontarroyos/Curriculum/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HMontarroyos/Curriculum.svg?style=for-the-badge
+[forks-url]: https://github.com/HMontarroyos/Curriculum/fork
+[stars-shield]: https://img.shields.io/github/stars/HMontarroyos/Curriculum.svg?style=for-the-badge
+[stars-url]: https://github.com/HMontarroyos/Curriculum/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HMontarroyos/Curriculum.svg?style=for-the-badge
+[issues-url]: https://github.com/HMontarroyos/Curriculum/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/hebertmontarroyos-developer/
 
-### Lista de Comandos do Gatsby
+[Gatsby]: https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=whit
+[Gatsby-url]: https://www.gatsbyjs.org/docs/building-with-components/
 
-- [gatsby-starter-casual](https://github.com/anubhavsrivastava/gatsby-starter-casual)
-- [gatsby-starter-grayscale](https://github.com/anubhavsrivastava/gatsby-starter-grayscale) 
-- [gatsby-starter-spectral](https://github.com/anubhavsrivastava/gatsby-starter-spectral)
-- [gatsby-starter-newage](https://github.com/anubhavsrivastava/gatsby-starter-newage)
-- [gatsby-starter-stylish](https://github.com/anubhavsrivastava/gatsby-starter-stylish)
-- [gatsby-starter-solidstate](https://github.com/anubhavsrivastava/gatsby-starter-solidstate)
-- [gatsby-starter-readonly](https://github.com/anubhavsrivastava/gatsby-starter-readonly)
-- [gatsby-starter-prologue](https://github.com/anubhavsrivastava/gatsby-starter-prologue)
-- [gatsby-starter-phantom](https://github.com/anubhavsrivastava/gatsby-starter-phantom)
-- [gatsby-starter-paradigmshift](https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift)
-- [gatsby-starter-overflow](https://github.com/anubhavsrivastava/gatsby-starter-overflow)
-- [gatsby-starter-multiverse](https://github.com/anubhavsrivastava/gatsby-starter-multiverse)
-- [gatsby-starter-identity](https://github.com/anubhavsrivastava/gatsby-starter-identity)
-- [gatsby-starter-highlights](https://github.com/anubhavsrivastava/gatsby-starter-highlights)
-- [gatsby-starter-fractal](https://github.com/anubhavsrivastava/gatsby-starter-fractal)
-- [gatsby-starter-eventually](https://github.com/anubhavsrivastava/gatsby-starter-eventually)
-- [gatsby-starter-directive](https://github.com/anubhavsrivastava/gatsby-starter-directive)
-- [gatsby-starter-creative](https://github.com/anubhavsrivastava/gatsby-starter-creative)
-- [gatsby-starter-aerial](https://github.com/anubhavsrivastava/gatsby-starter-aerial)
 
-## 🚀 Let's code! 🚀
+[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://vercel.com/
+[Deploy]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Deploy-url]: https://hebertmontarroyos.com.br/
