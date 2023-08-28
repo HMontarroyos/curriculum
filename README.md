@@ -164,14 +164,14 @@ module.exports = {
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/HMontarroyos/Curriculum.svg?style=for-the-badge
-[contributors-url]: https://github.com/HMontarroyos/Curriculum/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HMontarroyos/Curriculum.svg?style=for-the-badge
-[forks-url]: https://github.com/HMontarroyos/Curriculum/fork
-[stars-shield]: https://img.shields.io/github/stars/HMontarroyos/Curriculum.svg?style=for-the-badge
-[stars-url]: https://github.com/HMontarroyos/Curriculum/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HMontarroyos/Curriculum.svg?style=for-the-badge
-[issues-url]: https://github.com/HMontarroyos/Curriculum/issues
+[contributors-shield]: https://img.shields.io/github/contributors/HMontarroyos/curriculum.svg?style=for-the-badge
+[contributors-url]: https://github.com/HMontarroyos/curriculum/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HMontarroyos/curriculum.svg?style=for-the-badge
+[forks-url]: https://github.com/HMontarroyos/curriculum/fork
+[stars-shield]: https://img.shields.io/github/stars/HMontarroyos/curriculum.svg?style=for-the-badge
+[stars-url]: https://github.com/HMontarroyos/curriculum/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HMontarroyos/curriculum.svg?style=for-the-badge
+[issues-url]: https://github.com/HMontarroyos/curriculum/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hebertmontarroyos-developer/
 
